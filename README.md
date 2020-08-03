@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kpango/kpango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true)
+
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpango&hide=javascript,html,css)
