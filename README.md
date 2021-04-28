@@ -2,7 +2,7 @@
 
 ## Distributed System Developer & R&D Product Manager @yahoojapan & Tech Lead @vdaas
 
-- I am currently working as an R&D Product Owner at Yahoo! Japan Corporation.
+- I am currently working as an R&D Product Manager at Yahoo! Japan Corporation.
 - Technology Stack.
   - Distributed systems, Kubernetes, Docker, OpenStack.
   - Go, C, C++, Rust, Nim, Python, TypeScript.
