@@ -21,7 +21,7 @@
   <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
 </a>
 <a href="https://github.com/kpango">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpango&langs_count=8&layout=compact&theme=tokyonight&hide=javascript,html,css,less" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpango&langs_count=8&layout=compact&theme=tokyonight&hide=javascript,html,css,less,ruby" />
 </a>
 
 <i>With respect and love,<br>Yusuke Kato</i>
