@@ -3,7 +3,7 @@
 ## Distributed System Developer & R&D Product Manager @yahoojapan & Tech Lead @vdaas
 
 - I am currently working as an R&D Product Manager at Yahoo! Japan Corporation.
-- Technology Stack.
+- Here is my technology stack.
   - Distributed systems, Kubernetes, Docker, OpenStack.
   - Go, C, C++, Rust, Nim, Python, TypeScript.
 - I'm also interested in vector search engines and other similar search engines, like I invented a distributed vector search engine called Vald.
