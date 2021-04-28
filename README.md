@@ -24,6 +24,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpango&langs_count=8&layout=compact&theme=tokyonight&hide=javascript,html,css,less,ruby" />
 </a>
 
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpango&theme=monokai)
+
+---
+
 <i>With respect and love,<br>Yusuke Kato</i>
 
 Copyright ©2021 Yusuke Kato. All rights reserved.
