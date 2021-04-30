@@ -1,5 +1,23 @@
 ### Hi there, I'm Yusuke Kato (@kpango)
 
+<p align="left"> 
+  <a href="https://github.com/kpango/kpango/">
+    <img src="https://komarev.com/ghpvc/?username=kpango" alt="kpango" />
+  </a>
+  <a href="http://twitter.com/kpang0">
+    <img height="20" src="https://img.shields.io/twitter/follow/kpang0?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/kpango">
+    <img height="20" src="https://img.shields.io/github/followers/kpango?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/kpang0">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kpang0?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/15798596/kpango">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15798596?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+</p>
+
 ## Distributed System Developer & R&D Product Manager @yahoojapan & Tech Lead @vdaas
 
 - I am currently working as an R&D Product Manager at Yahoo! Japan Corporation.
