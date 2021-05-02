@@ -1,4 +1,6 @@
 ### Hi there, I'm Yusuke Kato (@kpango)
+## Distributed System Developer & R&D Product Manager @yahoojapan & Tech Lead @vdaas
+
 
 <p align="left"> 
   <a href="https://github.com/kpango/kpango/">
@@ -18,7 +20,7 @@
   </a>
 </p>
 
-## Distributed System Developer & R&D Product Manager @yahoojapan & Tech Lead @vdaas
+---
 
 - I am currently working as an R&D Product Manager at Yahoo! Japan Corporation.
 - Here is my technology stack.
