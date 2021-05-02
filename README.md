@@ -33,7 +33,7 @@
   - https://kpango.com
   - I have a leading knowledge of Go, Kubernetes at Yahoo and would be happy to help you guys out.
 
-- I'd love to receive PR and Issues report for [vald](https://github.com/vdaas/vald).
+- I'd love to receive the PR and Issues report for [vald](https://github.com/vdaas/vald).
 
 ---
 
