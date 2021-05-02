@@ -26,7 +26,7 @@
 - Here is my technology stack.
   - Distributed systems, Kubernetes, Docker, OpenStack.
   - Go, C, C++, Rust, Nim, Python, TypeScript.
-- I'm also interested in vector search engines and other similar search engines, like I invented a distributed vector search engine called Vald.
+- I'm also interested in vector search engines and other similar search engines like I invented a distributed vector search engine called Vald.
   - https://vald.vdaas.org
 - I also have several OSS repositories that you can take a look at if you are interested!  <a href="https://github.com/kpango?tab=repositories"><img align="center" alt="Repositories" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
 - Currently, I am looking for a side job opportunity. Here is a link to my resume.
