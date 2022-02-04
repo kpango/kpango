@@ -52,4 +52,4 @@
 
 <i>With respect and love,<br>Yusuke Kato</i>
 
-Copyright ©2021 Yusuke Kato. All rights reserved.
+Copyright ©2022 Yusuke Kato. All rights reserved.
