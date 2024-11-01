@@ -1,5 +1,5 @@
 # Hi there, I'm Yusuke Kato (@kpango)
-## Distributed System Developer & R&D Product Manager @yahoojapan & Tech Lead @vdaas
+## Distributed System Developer & R&D Product Manager @lycorp & Tech Lead @vdaas
 
 
 <p align="left"> 
