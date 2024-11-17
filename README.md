@@ -86,6 +86,7 @@
 
 #### Databases
 <div align="center">
+  <img src="https://raw.githubusercontent.com/vdaas/vald/refs/heads/main/assets/image/svg/symbol.svg" alt="Vald" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />
