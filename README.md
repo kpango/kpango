@@ -21,6 +21,18 @@
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="49%" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="49%" />
+    <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.base.svg" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="49%" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="49%" />
+	<img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/details.svg" />
+  </picture>
+</p>
 
 ---
 
