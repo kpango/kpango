@@ -50,18 +50,11 @@
 ---
 
 <p align="left">
-  <a href="https://github.com/kpango">
-    <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" width="100%"/>
-  </a>
-</p>
-<p align="left">
   <picture>
-	<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/night.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/day.svg" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/day.svg" />
+    <source media="(prefers-color-scheme: light)"  srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
+    <img alt="github profile details"    src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
   </picture>
-</p>
-<p align="left">
   <picture>
     <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg"/>
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg"/>
@@ -69,6 +62,13 @@
   </picture>
 </p>
 
+<p align="left">
+  <picture>
+	<source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/night.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/day.svg" />
+	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/day.svg" />
+  </picture>
+</p>
 ---
 
 <i>With respect and love,<br>Yusuke Kato</i>
