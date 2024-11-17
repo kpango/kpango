@@ -103,12 +103,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" width="50%" />
     <img alt="github profile stats" src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
   </picture>
-</p>
-
-<p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" width="48%" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" width="48%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" width="49%" />
     <img alt="metrics achievements" src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" />
   </picture>
 </p>
