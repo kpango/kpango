@@ -126,3 +126,35 @@
 
 Copyright © 2024 Yusuke Kato. All rights reserved.
 
+
+
+---
+
+## Recent Highlights
+
+- **Distributed Vector Search Engine - [Vald](https://vald.vdaas.org)**:
+  - Invented Vald, a distributed vector search engine capable of handling clusters with billions of vector data.
+  - Achieved 8k QPS for similarity searches, supporting over 40 services at LINE Yahoo Corporation.
+  - Extending Vald adoption to the entire SoftBank Group, providing technical support and deployment guidance.
+
+- **Open Source Contributions**:
+  - Actively maintain multiple OSS repositories.
+  - Welcoming contributions to the Vald project ([GitHub Repository](https://github.com/vdaas/vald)).
+
+- **Community Engagement**:
+  - Regularly participate in technical meetups and OSS events.
+  - Published several technical articles on distributed systems and Kubernetes best practices.
+
+---
+
+### Future Goals
+
+- Broaden the adoption of Vald in large-scale distributed systems across industries.
+- Collaborate on cutting-edge research in vector search and distributed computing.
+- Contribute to the growth of OSS communities globally.
+
+---
+
+<p align="center">
+  <i>Feel free to reach out for collaborations or discussions about distributed systems, OSS, or any exciting technical challenge!</i>
+</p>
