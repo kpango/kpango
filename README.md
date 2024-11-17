@@ -79,7 +79,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
   <img src="https://raw.githubusercontent.com/siderolabs/talos/refs/heads/main/website/assets/icons/logo.svg" alt="TalosLinux" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
-  <img src="https://raw.githubusercontent.com/cloudflare/cloudflare-docs/refs/heads/production/src/assets/logo.svg" alt="Cloudflare" height="50" />
 </div>
 
 </td>
