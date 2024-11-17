@@ -51,7 +51,7 @@
 
 <p align="left">
   <a href="https://github.com/kpango">
-    <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
+    <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" width="100%"/>
   </a>
 </p>
 <p align="left">
@@ -63,8 +63,8 @@
 </p>
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg"/>
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg"/>
     <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" />
   </picture>
 </p>
