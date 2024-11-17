@@ -6,10 +6,10 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://x.com/kpang0" target="_blank">
-<img src=https://img.shields.io/badge/X-000?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/X-000?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.reddit.com/user/kpang0">
-<img src=https://img.shields.io/badge/reddit-000?&style=for-the-badge&logo=reddit&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/reddit-000?&style=for-the-badge&logo=reddit&logoColor=FF4500 alt=reddit style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/15798596" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
