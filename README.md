@@ -23,13 +23,13 @@
 </p>
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="49%" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="49%" />
     <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.base.svg" />
   </picture>
   <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="49%" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="49%" />
 	<img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/details.svg" />
   </picture>
 </p>
@@ -61,7 +61,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
 ### Infrastructure  
@@ -73,10 +72,7 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### DB  
 <div align="center">  
@@ -87,11 +83,7 @@
 <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
-
 </td></tr></table>  
-
-<br/>
-
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: light)"  srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" width="50%" />
@@ -119,4 +111,4 @@
 </div>
 <br/>
 <br/>
-Copyright ©2022 Yusuke Kato. All rights reserved.
+Copyright ©2024 Yusuke Kato. All rights reserved.
