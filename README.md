@@ -95,8 +95,6 @@
 </tr>
 </table>
 
----
-
 <p align="left">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" width="50%" />
@@ -117,8 +115,6 @@
     <img alt="github contributions chart" src="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/day.svg" />
   </picture>
 </p>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kpango&&style=flat-square" align="center" />
