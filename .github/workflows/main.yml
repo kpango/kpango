@@ -13,7 +13,7 @@ on:
     branches:
       - main
 jobs:
-  github-metrics:
+  profile-3d:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -22,12 +22,25 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GPAT }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: github-profile-3d-contrib.json
+      - name: push SVGs to the output-3d branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output-3d-contrib
+          build_dir: profile-3d-contrib
+        env:
+          GITHUB_TOKEN: ${{ secrets.GPAT }}
+  default-metrics:
+    runs-on: ubuntu-latest
+    steps:
       - name: Default metrics
         uses: lowlighter/metrics@latest
         with:
           filename: output/metrics.base.svg
           token: ${{ secrets.GPAT }}
           base: header, activity, community, repositories, metadata
+  most-used:
+    runs-on: ubuntu-latest
+    steps:
       - name: Most used (with details)
         uses: lowlighter/metrics@latest
         with:
@@ -42,6 +55,9 @@ jobs:
           plugin_languages_limit: 8
           plugin_followup: yes
           plugin_followup_indepth: yes
+  compact-display:
+    runs-on: ubuntu-latest
+    steps:
       - name: Compact display
         uses: lowlighter/metrics@latest
         with:
@@ -54,10 +70,3 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-      - name: push SVGs to the output-3d branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output-3d-contrib
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GPAT }}
