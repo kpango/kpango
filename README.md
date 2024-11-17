@@ -9,7 +9,7 @@
 <img src=https://img.shields.io/badge/X-000?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.reddit.com/user/kpang0">
-<img height="20" src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" />
+<img src=https://img.shields.io/badge/reddit-000?&style=for-the-badge&logo=reddit&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/15798596" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -91,8 +91,6 @@
 </td></tr></table>  
 
 <br/>
-
----
 
 <p align="left">
   <picture>
