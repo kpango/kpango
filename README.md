@@ -1,7 +1,7 @@
 # Hi there, I'm Yusuke Kato (@kpango)
 ## Distributed System Developer & R&D Product Manager @lycorp & Tech Lead @vdaas
 
-<p align="center">
+<p align="center" style="display: flex; gap: 0; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/kpango" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
