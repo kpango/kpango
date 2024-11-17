@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/kpango" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=black alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://x.com/kpang0" target="_blank">
 <img src=https://img.shields.io/badge/X-000?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
