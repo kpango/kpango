@@ -56,8 +56,8 @@
     <img alt="github profile details"    src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="45%" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="45%" />
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="48%" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="48%" />
     <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" />
   </picture>
 </p>
@@ -70,7 +70,5 @@
   </picture>
 </p>
 ---
-
-<i>With respect and love,<br>Yusuke Kato</i>
 
 Copyright ©2022 Yusuke Kato. All rights reserved.
