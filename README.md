@@ -61,6 +61,8 @@
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
+  <img src="https://raw.githubusercontent.com/nim-lang/assets/refs/heads/master/Art/logo-crown.svg" alt="Nim" height="50" />
+  <img src="https://raw.githubusercontent.com/ziglang/logo/refs/heads/master/zig-mark.svg" alt="Zig" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
 </div>
@@ -75,7 +77,9 @@
   <img src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+  <img src="https://raw.githubusercontent.com/siderolabs/talos/refs/heads/main/website/assets/icons/logo.svg" alt="TalosLinux" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
+  <img src="https://raw.githubusercontent.com/cloudflare/cloudflare-docs/refs/heads/production/src/assets/logo.svg" alt="Cloudflare" height="50" />
 </div>
 
 </td>
