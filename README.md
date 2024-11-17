@@ -113,9 +113,11 @@
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/day.svg" />
   </picture>
 </p>
----
 
+<br/>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kpango&&style=flat-square" align="center" />
 </div>
+<br/>
+<br/>
 Copyright ©2022 Yusuke Kato. All rights reserved.
