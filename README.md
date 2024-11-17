@@ -19,6 +19,18 @@
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15798596?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
 </p>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="400" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+    <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.base.svg" />
+  </picture>
+  <picture>
+   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+	<img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/details.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -37,24 +49,10 @@
 
 ---
 
-<a href="https://github.com/kpango">
-  <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
-</a>
-<a href="https://github.com/kpango">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpango&langs_count=8&layout=compact&theme=tokyonight&hide=javascript,html,css,less,ruby" />
-</a>
-
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-    <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.base.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/details.svg" />
-  </picture>
+  <a href="https://github.com/kpango">
+    <img align="center" alt="My Github Stats"src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
+  </a>
 </p>
 <p align="left">
   <picture>
@@ -70,9 +68,6 @@
     <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.plugin.achievements.compact.svg" />
   </picture>
 </p>
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpango&theme=monokai)
 
 ---
 
