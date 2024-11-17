@@ -69,6 +69,7 @@
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/kpango/kpango/output-3d-contrib/day.svg" />
   </picture>
 </p>
+<iframe src="https://github.com/sponsors/kpango/card" title="Sponsor kpango" height="225" width="600" style="border: 0;"></iframe>
 ---
 
 Copyright ©2022 Yusuke Kato. All rights reserved.
