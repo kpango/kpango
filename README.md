@@ -23,8 +23,8 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="49%" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="49%" />
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="50%" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="50%" />
     <img alt="github profile details"    src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.base.svg" />
   </picture>
   <picture>
@@ -36,7 +36,7 @@
 
 ---
 
-- I am currently working as an R&D Product Manager at Yahoo! Japan Corporation.
+- I am currently working as an R&D Product Manager at LY Corporation.
 - Here is my technology stack:
   - Distributed systems, Kubernetes, Docker, OpenStack.
   - Go, C, C++, Rust, Nim, Python, TypeScript.
@@ -44,7 +44,7 @@
 - I also have several OSS repositories that you can check out: [My Repositories](https://github.com/kpango?tab=repositories).
 - Currently, I am looking for side job opportunities. Here is a link to my resume:
   - [Resume](https://kpango.com)
-- I have expertise in Go and Kubernetes at Yahoo and would be happy to help you out.
+- I have expertise in Go and Kubernetes at LY and would be happy to help you out.
 - Feel free to send PRs and issues for [Vald](https://github.com/vdaas/vald).
 
 ---
