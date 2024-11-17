@@ -55,8 +55,8 @@
 <tr>
 <td valign="top" width="33%">
 
-#### Languages  
-<div align="center">  
+#### Languages
+<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
@@ -68,8 +68,8 @@
 </td>
 <td valign="top" width="33%">
 
-#### Infrastructure  
-<div align="center">  
+#### Infrastructure
+<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />
@@ -81,8 +81,8 @@
 </td>
 <td valign="top" width="33%">
 
-#### Databases  
-<div align="center">  
+#### Databases
+<div align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />
@@ -118,16 +118,6 @@
   </picture>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kpango&&style=flat-square" align="center" />
-</div>
-
-<br/>
-
-Copyright © 2024 Yusuke Kato. All rights reserved.
-
-
-
 ---
 
 ## Recent Highlights
@@ -158,3 +148,10 @@ Copyright © 2024 Yusuke Kato. All rights reserved.
 <p align="center">
   <i>Feel free to reach out for collaborations or discussions about distributed systems, OSS, or any exciting technical challenge!</i>
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kpango&&style=flat-square" align="center" />
+</div>
+
+<br/>
+
+Copyright © 2024 Yusuke Kato. All rights reserved.
