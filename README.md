@@ -57,28 +57,57 @@
 
 #### Languages
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
-  <img src="https://raw.githubusercontent.com/nim-lang/assets/refs/heads/master/Art/logo-crown.svg" alt="Nim" height="50" />
-  <img src="https://raw.githubusercontent.com/ziglang/logo/refs/heads/master/zig-mark.svg" alt="Zig" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+  </a>
+  <a href="http://www.c-lang.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
+  </a>
+  <a href="https://nim-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/nim-lang/assets/refs/heads/master/Art/logo-crown.svg" alt="Nim" height="50" />
+  </a>
+  <a href="https://ziglang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ziglang/logo/refs/heads/master/zig-mark.svg" alt="Zig" height="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />
+  </a>
 </div>
-
 </td>
 <td valign="top" width="33%">
 
 #### Infrastructure
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-  <img src="https://raw.githubusercontent.com/siderolabs/talos/refs/heads/main/website/assets/icons/logo.svg" alt="TalosLinux" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
+  <a href="https://linux.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />
+  </a>
+  <a href="https://www.openstack.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" />
+  </a>
+  <a href="https://console.cloud.google.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+  </a>
+  <a href="https://www.talos.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/siderolabs/talos/refs/heads/main/website/assets/icons/logo.svg" alt="TalosLinux" height="50" />
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />
+  </a>
 </div>
 
 </td>
@@ -86,15 +115,28 @@
 
 #### Databases
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vdaas/vald/refs/heads/main/assets/image/svg/symbol.svg" alt="Vald" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+  <a href="https://vald.vdaas.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/vdaas/vald/refs/heads/main/assets/image/svg/symbol.svg" alt="Vald" height="50" />
+  </a>
+  <a href="https://mariadb.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
+  </a>
+  <a href="https://valkey.io/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+  </a>
+  <a href="https://www.influxdata.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />
+  </a>
+  <a href="https://cassandra.apache.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+  </a>
 </div>
-
 </td>
 </tr>
 </table>
