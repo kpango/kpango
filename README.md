@@ -1,23 +1,28 @@
 # Hi there, I'm Yusuke Kato (@kpango)
 ## Distributed System Developer & R&D Product Manager @lycorp & Tech Lead @vdaas
 
-
-<p align="left"> 
-  <a href="https://github.com/kpango/kpango/">
-    <img src="https://komarev.com/ghpvc/?username=kpango" alt="kpango" />
-  </a>
-  <a href="http://twitter.com/kpang0">
-    <img height="20" src="https://img.shields.io/twitter/follow/kpang0?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/kpango">
-    <img height="20" src="https://img.shields.io/github/followers/kpango?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/kpang0">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/kpang0?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/15798596/kpango">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15798596?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
+<p align="center">
+<a href="https://github.com/kpango/kpango/">
+<img src="https://komarev.com/ghpvc/?username=kpango&&style=flat-square" align="center" />
+</a>
+<a href="https://github.com/kpango" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/kpang0" target="_blank">
+<img src=https://img.shields.io/badge/X-000?&style=for-the-badge&logo=x&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.reddit.com/user/kpang0">
+<img height="20" src="https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500" />
+</a>
+<a href="https://stackoverflow.com/users/15798596" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+<a href="https://linkedin.com/in/kpango" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/kpango0114" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
 </p>
 <p align="left">
   <picture>
@@ -48,6 +53,54 @@
 - I'd love to receive the PR and Issues report for [vald](https://github.com/vdaas/vald).
 
 ---
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Languages  
+<div align="center">  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Infrastructure  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.openstack.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/openstack.png" alt="OpenStack" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DB  
+<div align="center">  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>
+
+---
 
 <p align="left">
   <picture>
@@ -71,5 +124,9 @@
 </p>
 <iframe src="https://github.com/sponsors/kpango/card" title="Sponsor kpango" height="225" width="600" style="border: 0;"></iframe>
 ---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=kpango&&style=flat-square" align="center" />
+</div>
 
 Copyright ©2022 Yusuke Kato. All rights reserved.
