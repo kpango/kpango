@@ -148,7 +148,7 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" width="50%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&count_private=true&hide=issues,prs" width="50%" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" width="50%" />
     <img alt="github profile stats" src="https://github-readme-stats.vercel.app/api?username=kpango&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" />
   </picture>
