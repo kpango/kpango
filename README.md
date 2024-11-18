@@ -1,7 +1,5 @@
 # Hi there, I'm Yusuke Kato (@kpango)
 
----
-
 <p align="center" style="display: flex; gap: 0; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/kpango" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
@@ -13,22 +11,17 @@
     <img src="https://img.shields.io/badge/reddit-000?&style=for-the-badge&logo=reddit&logoColor=FF4500" alt="reddit" />
   </a>
   <a href="https://stackoverflow.com/users/15798596" target="_blank">
-    https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
+     <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
   </a>
-  https://linkedin.com/in/kpango" target="_blank">
-    https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://linkedin.com/in/kpango" target="_blank">
+     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  https://www.facebook.com/kpango0114" target="_blank">
-    https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  <a href="https://www.facebook.com/kpango0114" target="_blank">
+     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
 </p>
 
----
-
 ## Distributed System Developer & R&D Product Manager @lycorp & Tech Lead @vdaas
-
----
-
 - I am currently working as an R&D Product Manager at LY Corporation.
 - Here is my technology stack:
   - Distributed systems, Kubernetes, Docker, OpenStack.
@@ -47,12 +40,12 @@
   <picture>
     <source media="(prefers-color-scheme: light)"  srcset="output/metrics.base.svg" width="50%" />
     <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="50%" />
-    https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.base.svg" />
+    <img src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/metrics.base.svg" />
   </picture>
   <picture>
    	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="49%" />
 	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="49%" />
-	https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/details.svg" />
+	<img src="https://raw.githubusercontent.com/kpango/kpango/refs/heads/master/output/details.svg" />
   </picture>
 </p>
 
@@ -66,16 +59,16 @@
 
 #### Languages
 <div align="center">
-  https://go.dev/" target="_blank">
-    https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" width="60" />
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" width="60" />
   </a>
-  https://isocpp.org/" target="_blank">
-    https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="60" />
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="60" />
   </a>
-  http://www.c-lang.org/" target="_blank">
-    https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="60" />
+  <a href="http://www.c-lang.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="60" />
   </a>
-  https://www.rust-lang.org" target="_blank">
+  <a href="https://www.rust-lang.org" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" width="60" />
   </a>
   <a href="https://nim-lang.org/" target="_blank">
