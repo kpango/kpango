@@ -1,4 +1,7 @@
 # Hi there, I'm Yusuke Kato (@kpango)
+
+---
+
 <p align="center" style="display: flex; gap: 0; justify-content: center; align-items: center; flex-wrap: wrap;">
   <a href="https://github.com/kpango" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
@@ -19,6 +22,8 @@
     https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
   </a>
 </p>
+
+---
 
 ## Distributed System Developer & R&D Product Manager @lycorp & Tech Lead @vdaas
 
@@ -68,9 +73,9 @@
     https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" width="60" />
   </a>
   http://www.c-lang.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="60" />
+    https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="60" />
   </a>
-  <a href="https://www.rust-lang.org" target="_blank">
+  https://www.rust-lang.org" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" width="60" />
   </a>
   <a href="https://nim-lang.org/" target="_blank">
