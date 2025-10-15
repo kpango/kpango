@@ -202,12 +202,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="240.7377742143099" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="240.7377742143099" y="0" width="98.36300465796161" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="339.1007788722715" y="0" width="42.29374611382008" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="381.3945249860916" y="0" width="42.02089537585496" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="423.4154203619466" y="0" width="23.79697505208845" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="447.21239541403503" y="0" width="12.787604585965026" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.71532771393188" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="239.71532771393188" y="0" width="97.94524342291064" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="337.6605711368425" y="0" width="43.73677521670179" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="381.3973463535443" y="0" width="42.11411874606244" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="423.5114650996067" y="0" width="23.75524103321675" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="447.26670613282346" y="0" width="12.733293867176469" height="8" fill="#7e7eff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -220,19 +220,19 @@
                             </div>
                             <small>
                                 <div>383 kB</div>
-                                <div>52.33%</div>
+                                <div>52.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Dockerfile
                             </div>
                             <small>
-                                <div>67.4 kB</div>
-                                <div>9.19%</div>
+                                <div>70 kB</div>
+                                <div>9.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -243,8 +243,8 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>37.9 kB</div>
-                                <div>5.17%</div>
+                                <div>38 kB</div>
+                                <div>5.16%</div>
                             </small>
                         </div>
                     </section>
@@ -258,19 +258,19 @@
                             </div>
                             <small>
                                 <div>156 kB</div>
-                                <div>21.38%</div>
+                                <div>21.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Python
                             </div>
                             <small>
-                                <div>66.9 kB</div>
-                                <div>9.13%</div>
+                                <div>67.4 kB</div>
+                                <div>9.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,7 +282,7 @@
                             </div>
                             <small>
                                 <div>20.3 kB</div>
-                                <div>2.78%</div>
+                                <div>2.77%</div>
                             </small>
                         </div>
                     </section>
