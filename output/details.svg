@@ -202,13 +202,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.39357460512193" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="226.39357460512193" y="0" width="73.78587639932526" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="300.1794510044472" y="0" width="49.34471706793436" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="349.5241680723816" y="0" width="34.069345192455145" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="383.5935132648367" y="0" width="33.31455298267137" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="416.9080662475081" y="0" width="23.974881153197362" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.88294740070546" y="0" width="19.117052599294585" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.49099942545445" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="226.49099942545445" y="0" width="73.81762896016458" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="300.30862838561904" y="0" width="49.15917673527717" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="349.4678051208962" y="0" width="34.092827845745646" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="383.5606329666418" y="0" width="33.328889362776046" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="416.88952232941784" y="0" width="23.98519835629342" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="440.8747206857113" y="0" width="19.125279314288694" height="8" fill="#7e7eff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -221,7 +221,7 @@
                             </div>
                             <small>
                                 <div>641 kB</div>
-                                <div>49.22%</div>
+                                <div>49.24%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -233,7 +233,7 @@
                             </div>
                             <small>
                                 <div>139 kB</div>
-                                <div>10.73%</div>
+                                <div>10.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -245,7 +245,7 @@
                             </div>
                             <small>
                                 <div>94.4 kB</div>
-                                <div>7.24%</div>
+                                <div>7.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -271,7 +271,7 @@
                             </div>
                             <small>
                                 <div>209 kB</div>
-                                <div>16.04%</div>
+                                <div>16.05%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,7 +282,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>96.5 kB</div>
+                                <div>96.6 kB</div>
                                 <div>7.41%</div>
                             </small>
                         </div>
