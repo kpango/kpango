@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.04803573260645" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="163.04803573260645" y="0" width="137.50642066768216" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="300.55445640028864" y="0" width="71.37107114284801" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="371.92552754313664" y="0" width="28.228848798532034" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="400.15437634166864" y="0" width="27.434928544317884" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="427.5893048859865" y="0" width="19.366780045669294" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="446.95608493165577" y="0" width="12.724773825989114" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.6808587576449" y="0" width="0.31914124235504654" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="162.94654202926486" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="162.94654202926486" y="0" width="137.4208260402823" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="300.3673680695471" y="0" width="71.32664427018317" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="371.69401233973036" y="0" width="28.253931524133744" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="399.94794386386405" y="0" width="27.41785092368686" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="427.36579478755095" y="0" width="19.354724664444948" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="446.72051945199587" y="0" width="12.960537963832444" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.6810574158283" y="0" width="0.31894258417170734" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>1.26 MB</div>
-                                <div>35.45%</div>
+                                <div>35.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -234,7 +234,7 @@
                             </div>
                             <small>
                                 <div>553 kB</div>
-                                <div>15.52%</div>
+                                <div>15.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -257,8 +257,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>98.6 kB</div>
-                                <div>2.77%</div>
+                                <div>100 kB</div>
+                                <div>2.82%</div>
                             </small>
                         </div>
                     </section>
@@ -272,7 +272,7 @@
                             </div>
                             <small>
                                 <div>1.07 MB</div>
-                                <div>29.89%</div>
+                                <div>29.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -283,7 +283,7 @@
                                 Makefile
                             </div>
                             <small>
-                                <div>218 kB</div>
+                                <div>219 kB</div>
                                 <div>6.14%</div>
                             </small>
                         </div>
